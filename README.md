@@ -6,4 +6,4 @@ In this project, a segmentation task has been performed for a small dataset. The
 
 A keras based FCN-8 architecture has been used for this task, which uses CNN to convert each of the image pixels to categories.For details of FCN-8, please refer to https://arxiv.org/abs/1411.4038.
 
-h5 weights of VGG-16 has been initialised at first. The model shows the Validation Accuracy of 78% and Validation Loss of 0.3
+h5 weights of VGG-16 has been initialised at first. The model shows the Training Accuracy of 72% and Training Loss of 0.9
